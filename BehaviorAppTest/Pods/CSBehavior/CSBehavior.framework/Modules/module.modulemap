@@ -1,0 +1,6 @@
+framework module CSBehavior {
+  umbrella header "CSBehavior.h"
+
+  export *
+  module * { export * }
+}

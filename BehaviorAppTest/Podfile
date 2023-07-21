@@ -1,0 +1,7 @@
+source	'https://dev.azure.com/PublicPackagesCS/Behavior/_git/BehaviorAnalytics.SDK.IOS.Specs'
+
+use_frameworks!
+
+target 'BehaviorAppTest' do
+   pod 'CSBehavior', '3.0.1'
+end
