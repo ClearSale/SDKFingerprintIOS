@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  BehaviorAppTest
-//
-//  Created by William Awaji on 22/12/19.
-//  Copyright © 2019 WA. All rights reserved.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
